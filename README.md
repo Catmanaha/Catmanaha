@@ -1,16 +1,22 @@
-## Hi there 👋
+# Tamerlan Dadashov
 
-<!--
-**Catmanaha/Catmanaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science student at the University of Bristol and current AI
+Developer Intern at SpiderGroup.
 
-Here are some ideas to get you started:
+I am focused on backend, data, and finance-technology engineering: building
+clear services, dependable data workflows, and tooling that is easy to test and
+operate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- [StratOps](https://github.com/Catmanaha/StratOps) — finance-data ingestion,
+  validation, reconciliation, and exception workflow API.
+- [ExpenseManager](https://github.com/Catmanaha/ExpenseManager) — Spring Boot
+  expense-account API with JWT authentication and optimistic locking.
+- [UserBookWebApi](https://github.com/Catmanaha/UserBookWebApi) — ASP.NET Core
+  services coordinating SQL Server user data and MongoDB book data.
+- Spotibuds Music API — to be added once organisation access is available.
+
+## Technologies
+
+Python, C#, Java, SQL, PostgreSQL, Azure, and Docker.
