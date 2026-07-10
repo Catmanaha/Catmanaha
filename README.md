@@ -15,7 +15,7 @@ operate.
   expense-account API with JWT authentication and optimistic locking.
 - [UserBookWebApi](https://github.com/Catmanaha/UserBookWebApi) — ASP.NET Core
   services coordinating SQL Server user data and MongoDB book data.
-- Spotibuds Music API — to be added once organisation access is available.
+- [Spotibuds Music API](https://github.com/Spotibuds/Music) — C# API using MongoDB, Redis, and Azure Blob Storage within a wider Identity (PostgreSQL/EF Core) and User (MongoDB, Redis, SignalR, RabbitMQ) architecture.
 
 ## Technologies
 
