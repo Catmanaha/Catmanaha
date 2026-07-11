@@ -1,21 +1,14 @@
 # Tamerlan Dadashov
 
-BSc Computer Science student at the University of Bristol.
+I study Computer Science at the University of Bristol and currently work as an AI Developer Intern at SpiderGroup. Most of my work is around backend systems, integrations, data workflows, and automation.
 
-I am focused on backend, data, and finance-technology engineering: building
-clear services, dependable data workflows, and tooling that is easy to test and
-operate.
+## Selected projects
 
-## Selected work
-
-- [StratOps](https://github.com/Catmanaha/StratOps) — finance-data ingestion,
-  validation, reconciliation, and exception workflow API.
-- [ExpenseManager](https://github.com/Catmanaha/ExpenseManager) — Spring Boot
-  expense-account API with JWT authentication and optimistic locking.
-- [UserBookWebApi](https://github.com/Catmanaha/UserBookWebApi) — ASP.NET Core
-  services coordinating SQL Server user data and MongoDB book data.
-- [Spotibuds Music API](https://github.com/Spotibuds/Music) — C# API using MongoDB, Redis, and Azure Blob Storage within a wider Identity (PostgreSQL/EF Core) and User (MongoDB, Redis, SignalR, RabbitMQ) architecture.
+- [StratOps](https://github.com/Catmanaha/StratOps) is my strongest personal project. It is a FastAPI and PostgreSQL backend for ingesting, validating, and reconciling finance data, with an exception review workflow.
+- [ExpenseManager](https://github.com/Catmanaha/ExpenseManager) is a Spring Boot expense API with JWT authentication, shared accounts, and optimistic locking.
+- [UserBookWebApi](https://github.com/Catmanaha/UserBookWebApi) uses two ASP.NET Core services to combine SQL Server user data with books stored in MongoDB.
+- [Spotibuds Music API](https://github.com/Spotibuds/Music) was part of a team project. My main contribution was the Music API, including its MongoDB and Redis functionality, Azure Blob media integration, and work on Docker and CI/CD. I also contributed to the Identity, User, and Frontend repositories, but those services were shared team work.
 
 ## Technologies
 
-Python, C#, Java, SQL, PostgreSQL, Azure, and Docker.
+Python, C#, Java, SQL, PostgreSQL, MongoDB, Redis, Azure, and Docker.
