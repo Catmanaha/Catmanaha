@@ -1,7 +1,6 @@
 # Tamerlan Dadashov
 
-BSc Computer Science student at the University of Bristol and current AI
-Developer Intern at SpiderGroup.
+BSc Computer Science student at the University of Bristol.
 
 I am focused on backend, data, and finance-technology engineering: building
 clear services, dependable data workflows, and tooling that is easy to test and
